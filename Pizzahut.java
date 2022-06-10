@@ -33,8 +33,7 @@ class ChickenPizza extends Pizza
 
 class MuttonPizza extends ChickenPizza
 {
-	String pizzabase;
-	int price;
+	
 	String flavouredtopping   = "Mutton Topping";
 	MuttonPizza (String pizzabase, int price)
 	{
